@@ -1,0 +1,11 @@
+dbbook=# CREATE TABLE bms.book (
+dbbook(# book_id serial NOT NULL,
+dbbook(# book_title varchar(300) NOT NULL,
+dbbook(# book_description varchar(1000) NOT NULL,
+dbbook(# book_author varchar(50) NOT NULL,
+dbbook(# book_publisher varchar(50) NOT NULL,
+dbbook(# book_pages int NULL,
+dbbook(# store_code varchar(5) NOT NULL,
+dbbook(# created_on timestamp NOT NULL,
+dbbook(# created_by varchar(50) NOT NULL,
+dbbook(# CONSTRAINT book_pkey PRIMARY KEY ();

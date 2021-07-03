@@ -1,0 +1,26 @@
+http://www.postgresqltutorial.com
+
+
+DDL => Data Definition Language
+
+DML => Data Manipulation Language
+
+DCL => Data Control Language
+
+TCL => Transaction control language
+
+DQL => Data Query Language
+
+///////////////////////////////////////////////
+1- import Pool.js
+2- import Dotenv
+3- Database Config
+4- create pool instance
+5- export Pool.js
+
+//////////////////////////////////////////////
+// to  enter to postgresql
+/press this in terminal => 1- sudo -i
+						   2- psql
+
+/ show databases in linux press this in terminal => \l

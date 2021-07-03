@@ -1,0 +1,37 @@
+{
+  "name": "note",
+  "version": "1.0.0",
+  "description": "note app api",
+  "type": "module",
+  "main": "server.js",
+  "dependencies": {
+    "babel-polyfill": "~6.26.0",
+    "body-parser": "~1.19.0",
+    "cors": "~2.8.5",
+    "dotenv": "^10.0.0",
+    "express": "~4.17.1",
+    "memorystorage": "^0.12.0",
+    "pg": "^8.6.0",
+    "postgres-pool": "^5.0.3",
+    "randomstring": "^1.2.1",
+    "sequential-ids": "^0.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mohmad012/NodeJs.git"
+  },
+  "keywords": [
+    "note",
+    "app"
+  ],
+  "author": "mohmad gamal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mohmad012/NodeJs/issues"
+  },
+  "homepage": "https://github.com/Mohmad012/NodeJs#readme"
+}

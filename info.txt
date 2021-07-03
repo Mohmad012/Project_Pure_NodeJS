@@ -1,0 +1,22 @@
+to create note app make this point:
+
+1- create folder [ note app ]
+2- npm init from terminal
+3- install all dependencies 
+	[ 	1- express 
+		2- body-parser 
+		3- cors 
+		4- babel-polyfill
+	]
+4- create this folders:
+	if database is found
+		1- route
+		2- controller
+		3- database
+	if database is not found
+		1- route
+		2- controller
+
+5- create server.js file
+6- create noteController.js file in controller folder
+7- create noteRoute.js file in route folder
